@@ -10,7 +10,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
- <h4> Knowledge about the following programming languages: </h4>
+ <h4> Some knowledge: </h4>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
