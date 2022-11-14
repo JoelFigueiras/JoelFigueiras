@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47t32qg6dfam0ycntd2j8t4hkvfz6jhn5wjeqtqsm9&rid=giphy.gif&ct=g" width="350" height="150"> </img>
+  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47t32qg6dfam0ycntd2j8t4hkvfz6jhn5wjeqtqsm9&rid=giphy.gif&ct=g" width="350" height="250"/img>
 </div>
 <h1 align="center">👋 Hello welcome to my github! My name is Joel and I'm a IT student. </h1>.
 
