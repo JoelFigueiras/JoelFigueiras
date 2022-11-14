@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e4721u7dvus8cl3e2g7hdlom8e3y6ttypr1jz6f3tsq&rid=giphy.gif&ct=g" width="400" height="150"> </img>
+  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47t32qg6dfam0ycntd2j8t4hkvfz6jhn5wjeqtqsm9&rid=giphy.gif&ct=g" width="350" height="150"> </img>
 </div>
-<h1 align="center">👋 Hello! My name is Joel and I'm a IT student. </h1>.
+<h1 align="center">👋 Hello welcome to my github! My name is Joel and I'm a IT student. </h1>.
 
 <div>
 <a href="https://github.com/JoelFigueiras">
@@ -20,13 +20,9 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-         
-
-</div>
- ##
- ### Contacts:
-
-<div>
+  </div>
+ <div align="center" style="display: inline_block"><br>
+  <a href = "mailto:joelfigueiras@live.com.pt"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joel-figueiras-b81259206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
